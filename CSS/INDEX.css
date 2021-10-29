@@ -1,0 +1,55 @@
+.fondo{
+	background-color:cyan;
+}
+.LI{
+	font-family:algerian;
+	color:red;
+	font-size:24px
+}
+.letras{
+	font-family:algerian;
+	text-decoration:underline;
+	color:red;
+}
+.link{
+	color:grey;
+}
+.flame{
+	background-color:yellow;
+}
+.flame2{
+	font-style:italic;
+	font-family:algerian;
+}
+.boton{
+	background-color:black;
+}
+.imagen1{
+    width:900px;
+    height:900px;
+}
+.flame3{
+	background-color:green;
+}
+.flame4{
+	background-color:pink;
+}
+.flame5{
+	background-color:orange;
+}
+.flame6{
+	background-color:red;
+}
+.flame7{
+	background-color:blue;
+}
+.flame8{
+	background-color:grey;
+}
+.flame9{
+	background-color:purple;
+}
+.p{
+	font-size:24px;
+	font-style:bold;
+}
